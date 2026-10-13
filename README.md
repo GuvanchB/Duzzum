@@ -1,6 +1,6 @@
 # Düzzüm / Дуззум
 
-**Oýna / Играть:** https://guvanchb.github.io/duzzum/
+**Oýna / Играть:** https://LOGIN.github.io/duzzum/
 
 [Türkmençe](#türkmençe) · [Русский](#русский)
 
@@ -70,5 +70,5 @@ Safari-de oýny açyň → **Paýlaş** → **«Öý» ekranyna goş**.
 
 ### Tehniki maglumat / Технические сведения
 - Ähli oýun bir `index.html` faýlynda. / Вся игра в одном файле `index.html`.
-- Online oýun: [PeerJS](https://peerjs.com) (MIT ygtyýarnamasy / лицензия MIT), oýunçylaryň arasynda göni birikme. / прямое соединение между игроками.
+- Online oýun: [MQTT.js](https://github.com/mqttjs/MQTT.js) (MIT) we açyk HiveMQ serweri. / Онлайн-игра: MQTT.js (MIT) и публичный сервер HiveMQ.
 - Surat: Oguz han we onuň ogullary (suratkeşiň eseri). / Изображение: Огуз-хан с сыновьями (работа художника).
